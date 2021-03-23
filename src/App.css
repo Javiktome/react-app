@@ -1,0 +1,17 @@
+tr{
+  margin: 10px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid gray;
+}
+
+table{
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+td{
+  margin-left: 20px;
+}
