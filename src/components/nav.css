@@ -1,0 +1,15 @@
+.MuiBottomNavigationAction-label{
+    font-size: 18px;
+    color:#fff;
+}
+
+.MuiBottomNavigationAction-label.Mui-selected{
+    font-size: 18px;
+    color:#fff;
+}
+
+a{
+    color: currentColor;
+    text-decoration: none;
+    font-size: 18px;
+}
